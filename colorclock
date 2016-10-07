@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2016 by peterdei (http://jsbin.com/ceguyob/4/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+<meta name="description" content="[color_clock]">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Modak|Montserrat|Sacramento|Waiting+for+the+Sunrise" rel="stylesheet">
+  <title>Kis Herceg</title>
+<style id="jsbin-css">
+ * { margin: 0; padding: 0; }
+
+#clock {
+  text-align: center;
+  
+}
+
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  font-family:'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+  margin-top: 0px;
+  color: white;
+}
+
+#forest {
+  width: 100%;
+  height: auto;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+ 
+}
+
+#fox {
+  width: 100%;
+  height: auto;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  margin: 20px;
+  padding: 0;
+  border: 0;
+ 
+}
+
+
+.right{ float:right}
+
+.h1 {
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+  text-align: center;
+  color: rgba(49,49,49,0.6);
+  font-size: 16px;
+  margin: 10px;
+}
+
+article {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 750px;
+  min-width: 320px;
+  padding:10px;
+}
+
+p {
+  color: rgba(0,0,0,.8);
+  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size: 21px;
+  letter-spacing: +.003em;
+  line-height: 1.58;
+}
+
+
+</style>
+</head>
+<body>
+
+  <div id="forest"><img src="http://i.imgur.com/YxytPz8.png"
+     <div id="clock">12:34:44</div> 
+     </div>
+
+  
+  
+  <div id="fox"><img src="http://i.imgur.com/udupxc1.png" alt="hercegesaroka"></div> 
+  
+  
+  
+  <article>
+    <p>
+  <br>Akkor jelent meg a róka.
+  
+  <p><br>- Jó napot! - mondta a róka. </p>
+  <p>- Jó napot! - felelte udvariasan a kis herceg. Megfordult, de nem látott senkit.</p> 
+  <p>- Itt vagyok az almafa alatt - mondta a hang. </p>
+  <p>- Ki vagy? - kérdezte a kis herceg. - Csinosnak csinos vagy...</p> 
+  <p>- Én vagyok a róka - mondta a róka. </p>
+  <p>- Gyere, játsszál velem - javasolta a kis herceg. - Olyan szomorú vagyok... </p>
+  <p>- Nem játszhatom veled - mondta a róka. - Nem vagyok megszelídítve. </p>
+  <p>- Ó, bocsánat! - mondta a kis herceg. Némi tűnődés után azonban hozzátette: - Mit jelent az, hogy "megszelídíteni"? </p> 
+  <p>- Te nem vagy idevalósi - mondta a róka. - Mit keresel?</p>  
+  <p>- Az embereket keresem - mondta a kis herceg. - Mit jelent az, hogy "megszelídíteni"? </p>
+  <p>- Az embereknek - mondta a róka - puskájuk van, és vadásznak. Mondhatom, nagyon kellemetlen! Azon fölül tyúkot is tenyésztenek. Ez minden érdekességük. Tyúkokat keresel? </p>
+  <p>- Nem - mondta a kis herceg. - Barátokat keresek. Mit jelent az, hogy "megszelídíteni"? </p>
+  <p>- Olyasmi, amit nagyon is elfelejtettek - mondta a róka. - Azt jelenti: kapcsolatokat teremteni. </p>
+  <p>- Kapcsolatokat teremteni? </p> 
+  <p>- Úgy bizony - mondta a róka. - Te pillanatnyilag nem vagy számomra más, mint egy ugyanolyan kisfiú, mint a többi száz- meg százezer. És szükségem sincs rád. Ahogyan neked sincs énrám. Számodra én is csak ugyanolyan róka vagyok, mint a többi száz- meg százezer. <br><strong><br>De ha megszelídítesz, szükségünk lesz egymásra. Egyetlen leszel számomra a világon. És én is egyetlen leszek a te számodra...</strong> </p>
+    
+   <br><img src="https://d2arxad8u2l0g7.cloudfront.net/hostedimages/1461083904ra/18822036.gif" alt="kisherceg" width="104%" height="104%" > 
+    
+    
+  <p><br>- Kezdem érteni - mondta a kis herceg. - Van egy virág... az, azt hiszem, megszelídített engem... </p>
+  <p>- Lehet - mondta a róka. - Annyi minden megesik a Földön... </p>
+  <p>- Ó, ez nem a Földön volt - mondta a kis herceg. </p>
+  <p><br>A róka egyszeriben csupa kíváncsiság lett. </p>
+  <p>- Egy másik bolygón? </p> 
+  <p>- Igen.</p> 
+  <p>- Vannak azon a bolygón vadászok? </p>
+  <p>- Nincsenek.</p> 
+  <p>- Lám, ez érdekes. Hát tyúkok? </p>
+  <p>- Nincsenek.</p> 
+  <p>- Semmi sem tökéletes - sóhajtott a róka. De aztán visszatért a gondolatára: <br><br> Nekem bizony egyhangú az életem. Én tyúkokra vadászom, az emberek meg énrám vadásznak. Egyik tyúk olyan, mint a másik; és egyik ember is olyan, mint a másik. Így aztán meglehetősen unatkozom. De ha megszelídítesz, megfényesednék tőle az életem. Lépések neszét hallanám, amely az összes többi lépés neszétől különböznék. A többi lépés arra késztet, hogy a föld alá bújjak. A tiéd, mint valami muzsika, előcsalna a lyukamból. Aztán nézd csak! Látod ott azt a búzatáblát? Én nem eszem kenyeret. Nincs a búzára semmi szükségem. Nekem egy búzatábláról nem jut eszembe semmi. Tudod, milyen szomorú ez? De neked olyan szép aranyhajad van. Ha megszelídítesz, milyen nagyszerű lenne! Akkor az aranyos búzáról rád gondolhatnék. És hogy szeretném a búzában a szél susogását... </p>
+  <p><br>A róka elhallgatott, és sokáig nézte a kis herceget. </p>
+  <p><br>- Légy szíves, szelídíts meg! - mondta. </p>
+  <p><br>- Kész örömest - mondta a kis herceg -, de nem nagyon érek rá. Barátokat kell találnom, és annyi mindent meg kell ismernem! </p>
+  <p>- Az ember csak azt ismeri meg igazán, amit megszelídít - mondta a róka. - Az emberek nem érnek rá, hogy bármit is megismerjenek. Csupa kész holmit vásárolnak a kereskedőknél. De mivel barátkereskedők nem léteznek, az embereknek nincsenek is barátaik. Ha azt akarod, hogy barátod legyen, szelídíts meg engem. </p>
+  <p>- Jó, ó, de hogyan? - kérdezte a kis herceg. </p>
+  <p>- Sok-sok türelem kell hozzá - felelte a róka. - Először leülsz szép, tisztes távolba tőlem, úgy, ott a fűben. Én majd a szemem sarkából nézlek, te pedig nem szólsz semmit. A beszéd csak félreértések forrása. De minden áldott nap egy kicsit közelebb ülhetsz... </p>
+
+  <p><br><strong>Másnap visszajött a kis herceg.</strong> </p>
+    
+  <p>- Jobb lett volna, ha ugyanabban az időben jössz - mondta a róka. - Ha például délután négykor érkezel majd, én már háromkor elkezdek örülni. Minél előrébb halad az idő, annál boldogabb leszek. Négykor már tele leszek izgalommal és aggodalommal; fölfedezem, milyen drága kincs a boldogság. De ha csak úgy, akármikor jössz, sosem fogom tudni, hány órára öltöztessem díszbe a szívemet... Szükség van bizonyos szertartásokra is. </p>
+  <p>- Mi az, hogy szertartás? - kérdezte a kis herceg.p</p> 
+  <p>- Az is olyasvalami, amit alaposan elfelejtettek - mondta a róka. - Attól lesz az egyik nap más, mint a másik, az egyik óra különböző a másiktól. Az én vadászaimnak is megvan például a maguk szertartása. Eszerint minden csütörtökön elmennek táncolni a falubeli lányokkal. Ezért aztán a csütörtök csodálatos nap! Olyankor egészen a szőlőig elsétálok. Ha a vadászok csak úgy akármikor táncolnának, minden nap egyforma lenne, és nekem egyáltalán nem lenne vakációm. </p>
+  <p>Így aztán a kis herceg megszelídítette a rókát. S amikor közeledett a búcsú órája: </p>
+  <p>- Ó! - mondta a róka. - Sírnom kell majd. </p>
+  <p>- Te vagy a hibás - mondta a kis herceg. - Én igazán nem akartam neked semmi rosszat. Te erősködtél, hogy szelídítselek meg.</p> 
+  <p>- Igaz, igaz - mondta a róka. </p>
+  <p>- Mégis sírni fogsz! - mondta a kis herceg. </p>
+  <p>- Igaz, igaz - mondta a róka. </p>
+  <p>- Akkor semmit sem nyertél az egésszel. </p>
+  <p>- De nyertem - mondta a róka. - A búza színe miatt. - Majd hozzáfűzte: </p>
+  <p>- Nézd meg újra a rózsákat. Meg fogod érteni, hogy a tiéd az egyetlen a világon. Aztán gyere vissza elbúcsúzni, s akkor majd ajándékul elárulok neked egy titkot. </p>
+  <p>A kis herceg elment, hogy újra megnézze a rózsákat.</p> 
+  <p>- Egyáltalán nem vagytok hasonlók a rózsámhoz - mondta nekik. - Ti még nem vagytok semmi. Nem szelídített meg benneteket senki, és ti sem szelídítettetek meg senkit. Olyanok vagytok, mint a rókám volt. Ugyanolyan közönséges róka volt, mint a többi száz- meg százezer. De én a barátommá tettem, és most már egyetlen az egész világon. </p>
+  <p>A rózsák csak feszengtek, ő pedig folytatta: </p>
+  <p>- Szépek vagytok, de üresek. Nem lehet meghalni értetek. Persze egy akármilyen járókelő az én rózsámra is azt mondhatná, hogy ugyanolyan, mint ti. Holott az az igazság, hogy ő egymaga többet ér, mint ti valamennyien, mert ő az, akit öntözgettem. Mert ő az, akire burát tettem. Mert az, akit szélfogó mögött óvtam. Mert róla öldöstem le a hernyókat (kivéve azt a kettőt-hármat, a lepkék miatt). Mert őt hallottam panaszkodni meg dicsekedni, sőt néha hallgatni is. Mert ő az én rózsám. </p>
+
+  <p><br><strong>Azzal visszament a rókához.</strong> </p>
+  <p>- Isten veled - mondta.</p> 
+  <p>- Isten veled - mondta a róka. <br>- Tessék, itt a titkom. Nagyon egyszerű: 
+  <br><strong><br>jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.</strong> </p>
+  <br><p>- Ami igazán lényeges, az a szemnek láthatatlan - ismételte a kis herceg, hogy jól az emlékezetébe vésse. </p>
+  <p>- Az idő, amit a rózsádra vesztegettél: az teszi olyan fontossá a rózsádat. </p>
+  <p>- Az idő, amit a rózsámra vesztegettem... - ismételte a kis herceg, hogy jól az emlékezetébe vésse. </p>
+<p>- Az emberek elfelejtették ezt az igazságot - mondta a róka. 
+  
+  <br><strong><br>- Neked azonban nem szabad elfelejtened. Te egyszer s mindenkorra felelős lettél azért, amit megszelídítettél. Felelős vagy a rózsádért...</strong> </p>
+<p><br>- Felelős vagyok a rózsámért - ismételte a kis herceg, hogy jól az emlékezetébe vésse. </p>
+
+</p>
+  </article>
+
+
+<div id="fox"><img src="http://i.imgur.com/Df4DxpE.png" alt="róka"></div> 
+  
+  
+<script id="jsbin-javascript">
+function colorClock(){
+  
+  var date = new Date();
+  var hours = date.getHours();
+  var minutes = date.getMinutes();
+  var seconds = date.getSeconds();
+
+  if (hours < 10) {
+    hours = '0' + hours;
+  }
+  if (minutes < 10) {
+    minutes = '0' + minutes;
+  }
+  if (seconds < 10) {
+    seconds = '0' + seconds;
+  }
+
+  var clockFace = hours + ':' + minutes + ':' + seconds;
+  var hexColor = '#' + hours + minutes + seconds;
+  
+  document.getElementById('clock').innerHTML = clockFace;
+    setTimeout(function() {
+    colorClock();
+  }, 1000);
+  
+  document.id=forest.style.background = hexColor;
+}
+
+colorClock();
+
+</script>
+</body>
+</html>
